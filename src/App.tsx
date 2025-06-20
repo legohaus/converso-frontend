@@ -1,5 +1,7 @@
+import Home from './components/Home';
+
 function App() {
-  return <h1>Welcome to Converso</h1>;
+  return <Home />;
 }
 
 export default App;
